@@ -1,6 +1,4 @@
-<div style="overflow: hidden; width: 600px; height: 270px;">
-  <img src="image.jpg" alt="Alt text" style="width: 100%; height: 100%; object-fit: cover;">
-</div>
+![image](image.jpg)
 
 # Hypothesis Testing on Supermarket Sales
 
